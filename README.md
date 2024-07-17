@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sushmashree P S</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software engineer from India.</h3>
 <img align = "right" alt="coding" width="400" src="https://t4.ftcdn.net/jpg/04/08/19/91/360_F_408199191_OsO7cMVY8c3h18uRozn2zPx0GUTqsWB6.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushmashreeps&label=Profile%20views&color=0e75b6&style=flat" alt="sushmashreeps" /> </p>
